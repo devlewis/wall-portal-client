@@ -2,8 +2,8 @@
 
 # api, local certifications
 .env
-.crt
-.key
+*.crt
+*.key
 
 # dependencies
 /node_modules
